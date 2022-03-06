@@ -1,0 +1,20 @@
+#wel-id{
+    height: 40px;
+    width:40%;
+    border:5px solid red;
+    background-color: black ;
+    margin: 20px;
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+div{
+    margin:20px;
+}
+nav{
+    margin: 20px;
+}
+#list-id{
+    line-height: 20px;
+}
